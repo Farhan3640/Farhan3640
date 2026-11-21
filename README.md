@@ -10,7 +10,7 @@ I'm passionate about building software applications, working with data, explorin
 - 🌱 Learning **Python, SQL, PostgreSQL, ETL Pipelines, and Data Engineering**
 - 💡 Interested in **Software Development, Data Engineering, AI/ML**
 - 🏆 3rd Place – Consulting & Analytics Club, IIT Guwahati × Nailit
-- 📫 Reach me through [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/farhankhan364)
 - ⚡ Always curious to learn, build, and improve!
 
 ---
@@ -21,7 +21,6 @@ I'm passionate about building software applications, working with data, explorin
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -44,8 +43,6 @@ I'm passionate about building software applications, working with data, explorin
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -74,25 +71,13 @@ I'm passionate about building software applications, working with data, explorin
 
 ---
 
-### 🏆 Achievements
-
-- 🥉 Secured **3rd Place** at Consulting & Analytics Club, IIT Guwahati × Nailit.
-- 🚀 Built projects across Full-Stack Development, AI, and Data Engineering.
-
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farhan3640&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan3640&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Farhan3640-181717?style=for-the-badge&logo=github)](https://github.com/Farhan3640)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhankhan364)
 
 ---
 
