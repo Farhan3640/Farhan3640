@@ -71,9 +71,6 @@ I'm passionate about building software applications, working with data, explorin
 
 ---
 
----
-
-
 ### 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Farhan3640-181717?style=for-the-badge&logo=github)](https://github.com/Farhan3640)
